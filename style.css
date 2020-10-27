@@ -1,0 +1,31 @@
+body {
+    background-color: #250f36 ;
+}
+
+.project__contanier {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: middle;
+}
+
+.project__info {
+    /* width: 49%; */
+    /* display: inline-block; */
+    margin: 50px 0;
+    font-family: cursive;
+    color:blanchedalmond;
+    align-items: center;
+}
+
+/* .button {
+    font-size: 20px;
+    background-color: #4CAF50;
+} */
+
+.project__image {
+    margin:50px 200px;
+    width: 79% ; 
+    height: 79%;
+}
+
